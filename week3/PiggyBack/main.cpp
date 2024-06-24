@@ -1,0 +1,1 @@
+//here we are going to use the Dijsktra algorithm 3 times (for each of the 3 nodes) to have the paths from D_i to every other node in the graph. 
